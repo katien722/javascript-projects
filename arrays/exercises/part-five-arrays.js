@@ -1,5 +1,20 @@
 let str = 'In space, no one can hear you code.';
-let arr = ['B', 'n', 'n', 5];
+let arr = ['B', 'n' ,'n', 5];
+console.log(str.split('e'));
+console.log(str.split(' '));
+console.log(str.split(''));
+
+console.log(arr.join());
+console.log(arr.join('a'));
+console.log(arr.join(' '));
+console.log(arr.join(''));
+
+
+
+
+
+
+
 
 //1) Use the split method on the string to identify the purpose of the parameter inside the ().
 
